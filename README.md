@@ -1,2 +1,2 @@
-# balast-token
+# ballast-token
 Token contract
