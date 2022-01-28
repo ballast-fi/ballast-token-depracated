@@ -1,2 +1,2 @@
-# ballast-token
-Token contract
+# Ballast-token
+Ballast Community ($BLST) token contract. 
